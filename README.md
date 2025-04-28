@@ -2,6 +2,11 @@
 
 Bu uygulama, çalışanların aylık ve günlük çalışma durumlarını, mesai ve normal çalışma saatlerini kolayca takip edebilmeleri için Cursor kullanarak geliştirilmiş bir Android uygulamasıdır.
 
+## Ekran Görüntüleri
+
+![Ana Ekran](screenshots/ana_ekran.png)
+![Ay Detay](screenshots/ay_detay.png)
+
 ## Özellikler
 - Her ay ve gün için çalışma durumu seçimi (Gidildi, Gidilmedi, Mesai, G+M)
 - Girilen saatlerin kaydedilmesi (normal ve mesai)
