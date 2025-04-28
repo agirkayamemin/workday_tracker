@@ -4,8 +4,8 @@ Bu uygulama, çalışanların aylık ve günlük çalışma durumlarını, mesai
 
 ## Ekran Görüntüleri
 
-![Ana Ekran](screenshots/ana_ekran.png)
-![Ay Detay](screenshots/ay_detay.png)
+![Ana Ekran](screenshots/ana_ekran.jpg)
+![Ay Detay](screenshots/ay_detay.jpg)
 
 ## Özellikler
 - Her ay ve gün için çalışma durumu seçimi (Gidildi, Gidilmedi, Mesai, G+M)
