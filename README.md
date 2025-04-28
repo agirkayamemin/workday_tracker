@@ -16,7 +16,7 @@ Bu uygulama, çalışanların aylık ve günlük çalışma durumlarını, mesai
 ## Kurulum
 1. Bu repoyu klonlayın:
    ```sh
-   git clone https://github.com/agirkayaemin/workday_tracker.git
+   git clone https://github.com/agirkayamemin/workday_tracker.git
    ```
 2. Android Studio ile açın.
 3. Gerekli bağımlılıkların otomatik olarak kurulmasını bekleyin.
@@ -42,4 +42,4 @@ Katkıda bulunmak isterseniz, lütfen bir fork oluşturun ve pull request gönde
 **Geliştirici:** Muhammed Emin Agirkaya
 
 # Ek Bilgi
-Bu uygulama sadece Cursor ile yapılmıştır.
+Bu uygulama yapay zeka destekli kod yazım ve geliştirme platformu olan Cursor ile yapılmıştır.
