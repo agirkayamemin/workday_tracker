@@ -1,6 +1,6 @@
 # Workday Tracker App
 
-Bu uygulama, çalışanların aylık ve günlük çalışma durumlarını, mesai ve normal çalışma saatlerini kolayca takip edebilmeleri için geliştirilmiş bir Android uygulamasıdır.
+Bu uygulama, çalışanların aylık ve günlük çalışma durumlarını, mesai ve normal çalışma saatlerini kolayca takip edebilmeleri için Cursor kullanarak geliştirilmiş bir Android uygulamasıdır.
 
 ## Özellikler
 - Her ay ve gün için çalışma durumu seçimi (Gidildi, Gidilmedi, Mesai, G+M)
@@ -34,4 +34,4 @@ Katkıda bulunmak isterseniz, lütfen bir fork oluşturun ve pull request gönde
 
 ---
 
-**Geliştirici:** [Adınızı buraya yazabilirsiniz] 
+**Geliştirici:** Muhammed Emin Agirkaya
