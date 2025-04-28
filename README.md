@@ -35,3 +35,6 @@ Katkıda bulunmak isterseniz, lütfen bir fork oluşturun ve pull request gönde
 ---
 
 **Geliştirici:** Muhammed Emin Agirkaya
+
+# Ek Bilgi
+Bu uygulama sadece Cursor ile yapılmıştır.
