@@ -16,7 +16,7 @@ Bu uygulama, çalışanların aylık ve günlük çalışma durumlarını, mesai
 ## Kurulum
 1. Bu repoyu klonlayın:
    ```sh
-   git clone https://github.com/kullaniciadi/workday_tracker.git
+   git clone https://github.com/agirkayaemin/workday_tracker.git
    ```
 2. Android Studio ile açın.
 3. Gerekli bağımlılıkların otomatik olarak kurulmasını bekleyin.
